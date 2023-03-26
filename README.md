@@ -6,7 +6,7 @@
 ## Gameplay
 Made from scratch,this game is made using Python and Pygame.It has fun gameplay mechanics such as Tension,Health,Reload and Scoring.
 
-##Frameworks and Languages
+## Frameworks and Languages
 Main Language: Python
 >Pygame
 
